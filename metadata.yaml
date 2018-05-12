@@ -1,0 +1,28 @@
+_repo: Through-these-EyesThe-courageous-struggle-to-find-meaning-in-a-life-stressed-with-cancer_37060
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Isaacson, Lauren Ann
+    birthdate: 1961
+    deathdate: 1986
+    gutenberg_agent_id: '38622'
+    url: http://www.gutenberg.org/2009/agents/38622
+description: ''
+gutenberg_issued: '2011-08-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37060'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RC'
+- !lcsh 'Isaacson, Lauren Ann, 1961-1986'
+- !lcsh 'Cancer -- Patients -- Biography'
+title: "Through These Eyes\r\nThe courageous struggle to find meaning in a life stressed\
+  \ with cancer"
+url: http://www.gutenberg.org/ebooks/37060
